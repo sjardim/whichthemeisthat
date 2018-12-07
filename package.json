@@ -1,10 +1,8 @@
 {
     "name": "whichthemeisthat",
     "displayName": "Which Theme Is That?",
-    "description": "Shows your current theme and font names on the status bar. Useful when sharing your screen :)",
+    "description": "Now you can share your current theme and font on the status bar.",
     "version": "0.0.1",
-    "publisher": "sjardim",
-    "icon": "images/whichthemeisthat.png",
     "engines": {
         "vscode": "^1.29.0"
     },
