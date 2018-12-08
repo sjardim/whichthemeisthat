@@ -2,6 +2,8 @@
     "name": "whichthemeisthat",
     "displayName": "Which Theme Is That?",
     "description": "Now you can share your current theme and font on the status bar.",
+    "publisher": "sjardim",
+    "icon": "grandma.png",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.29.0"
