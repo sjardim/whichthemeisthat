@@ -41,7 +41,7 @@ function activate(context) {
 function updateStatusBarItem() {
     const theme = vscode.workspace.getConfiguration().get('workbench.colorTheme');
     const font = vscode.workspace.getConfiguration().get('editor.fontFamily');
-    myStatusBarItem.text = 'Theme: ' + theme + ' | ' +  'Font: ' + font;
+    myStatusBarItem.text = '$(eye) Theme: ' + theme + ' + ' +  'Font: ' + font;
 }
 
 exports.activate = activate;
