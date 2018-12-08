@@ -6,9 +6,11 @@ Tired of hearing that question when you share a screenshot or a tutorial on YouT
 
 Introducing "Which Theme is That" Visual Studio Code extension. 
 
-![Extension icon](https://github.com/sjardim/whichthemeisthat/blob/master/grandma.png?raw=true)
-
 This extension will show on the status bar your workspace's current theme name and font. 
+
+## Install
+
+Grab it here: https://marketplace.visualstudio.com/items?itemName=sjardim.whichthemeisthat
 
 ## How to Run
 
