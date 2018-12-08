@@ -1,65 +1,27 @@
-# whichthemeisthat README
+# Which Theme/Font is That?
 
-This is the README for your extension "whichthemeisthat". After writing up a brief description, we recommend including the following sections.
+![Grandma finds the Internet](https://github.com/sjardim/whichthemeisthat/blob/master/grandma.jpg?raw=true)
 
-## Features
+Tired of hearing that question when you share a screenshot or a tutorial on YouTube? Your problems are over! :)
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+Introducing "Which Theme is That" Visual Studio Code extension. 
 
-For example if there is an image subfolder under your extension project workspace:
+![Extension icon](https://github.com/sjardim/whichthemeisthat/blob/master/grandma.png?raw=true)
 
-\!\[feature X\]\(images/feature-x.png\)
+This extension will show on the status bar your workspace's current theme name and font. 
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## How to Run
 
-## Requirements
+Install the extension and run the Command Palette <kbd>Ctrl+Shift+P</kbd> or <kbd>Cmd+Shift+P</kbd> on Mac. Search for "**Which Theme is That?**" and hit <kbd>Enter</kbd>. 
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+![Running the extension](https://github.com/sjardim/whichthemeisthat/blob/master/screenshot-1.png?raw=true)
 
-## Extension Settings
+## Screenshot
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+![Extension working](https://github.com/sjardim/whichthemeisthat/blob/master/screenshot-2.png?raw=true)
 
-For example:
 
-This extension contributes the following settings:
+> Tip: If you change the theme and/or font during a tutorial, the extension will automatically update it on the status bar.
 
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
