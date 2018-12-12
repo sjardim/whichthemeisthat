@@ -16,6 +16,8 @@ Grab it here: https://marketplace.visualstudio.com/items?itemName=sjardim.whicht
 
 Install the extension and run the Command Palette <kbd>Ctrl+Shift+P</kbd> or <kbd>Cmd+Shift+P</kbd> on Mac. Search for "**Which Theme is That?**" and hit <kbd>Enter</kbd>. 
 
+The extension will run **only on the currently opened window** and will **deactivate** once it's closed. This was intentional as the idea was just to use it when recording a tutorial or taking screenshots as the theme and font names may take too much space on your status bar, and hide more useful information during development.
+
 ![Running the extension](https://github.com/sjardim/whichthemeisthat/blob/master/screenshot-1.png?raw=true)
 
 ## Screenshot
